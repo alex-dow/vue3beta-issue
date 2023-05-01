@@ -1,0 +1,10 @@
+{
+    "name": "volar-bug",
+    "description": "Demonstrates a compiler error that I was not expecting",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "typescript": "^5.0.4",
+        "vue": "3.3.0-beta.3"
+    }
+}
